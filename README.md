@@ -196,5 +196,5 @@ This application is developed for educational and research purposes only. It sho
 
 **Uday Kiran Bhushamoni**
 
-- Email: udaybhushamoni@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
+- Email: udaykiranbhushamoni@gmail.com
+- GitHub:https://github.com/Udaykiran2252/Advanced-AI-Medical-Intelligence-Platform/edit/main/README.md
