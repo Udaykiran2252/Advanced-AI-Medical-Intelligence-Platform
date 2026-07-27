@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+tensorflow
+numpy
+opencv-python
+pillow
+requests
+python-multipart
+pandas
+matplotlib
